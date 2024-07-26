@@ -5,3 +5,4 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
 ![Thyago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThyagoOF6&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThyagoOF6&hide_progress=true)
