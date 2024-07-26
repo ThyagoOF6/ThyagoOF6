@@ -6,3 +6,9 @@
 
 ![Thyago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThyagoOF6&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThyagoOF6&hide_progress=true)
+
+## Tecnologias que uso no meu dia
+
+<div styles="display: inline_block"><br/>
+  <img align="
+</div>
