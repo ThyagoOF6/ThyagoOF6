@@ -42,10 +42,9 @@
   <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>
-</div>
-
 <div>  
   <img  style="width: 85%; display: inline-block;" data-target="animated-image.originalImage" src="https://camo.githubusercontent.com/0953ee0ac701354fb28479c3fa7125a9abf19d6d6336991574863cdc2559cf42/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" data-canonical-src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif">     
+</div>
 </div>
 
 <h1 align="center">
