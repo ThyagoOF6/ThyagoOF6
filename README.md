@@ -43,3 +43,10 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
 </h1>
+
+
+
+
+
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ThyagoOF6&repo=ThyagoOF6&theme=react)](https://github.com/ThyagoOF6/ThyagoOF6)
