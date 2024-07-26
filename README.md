@@ -5,7 +5,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thyago.oliveira.ferreira@gmail.com)
 
-# GitHub Stats ![image](https://github.com/user-attachments/assets/41628fa8-75c8-43da-b065-9e5a7e889747)
+# GitHub Stats
 
 ![Thyago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThyagoOF6&show_icons=true&theme=dracula)
 <img height="160em" margin="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThyagoOF6&layout=compact&langs_count=7&theme=dracula"/>
