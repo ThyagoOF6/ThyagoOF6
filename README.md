@@ -45,8 +45,4 @@
 </h1>
 
 
-
-
-[![Snake animation](https://github.com/ThyagoOF6/ThyagoOF6/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ThyagoOF6&repo=ThyagoOF6&theme=react)](https://github.com/ThyagoOF6/ThyagoOF6)
+![snake gif](https://github.com/ThyagoOF6/ThyagoOF6/blob/output/github-contribution-grid-snake.svg)
