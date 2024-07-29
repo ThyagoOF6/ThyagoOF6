@@ -22,9 +22,10 @@
 
 # 📊 GitHub Stats
 
-![Thyago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThyagoOF6&show_icons=true&theme=dracula)
-<br/>
-<img height="160em" margin="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThyagoOF6&layout=compact&langs_count=7&theme=dracula"/>
+<div>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThyagoOF6&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThyagoOF6&layout=compact&langs_count=8&theme=gotham"/>
+</div>
 
 ## Tech Stack
 <div style="display: inline_block">
